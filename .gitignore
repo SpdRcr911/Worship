@@ -1,0 +1,21 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Project-specific files (e.g., if you edit files locally)
+*.swp
+*.bak
+*~
+
+# Python
+__pycache__/
+*.pyc
+
+# Dotnet/C# (Since you are a dotnet engineer, including this is practical)
+# Build artifacts
+[Bb]in/
+[Oo]bj/
+*.log
+*.user
+*.pdb
+*.suo
